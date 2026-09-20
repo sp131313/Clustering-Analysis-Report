@@ -24,8 +24,6 @@ Contains:
 ### scripts
 Reproducible Python scripts for the data preparation and clustering workflow.
 
-### Meeting_3
-Meeting 3 agenda/minutes and recording script.
 
 ### Documentation
 Supporting Stage 2 presentation slides, video script, voice-over-ready demonstration video, and project charter.
