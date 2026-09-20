@@ -24,10 +24,6 @@ Contains:
 ### scripts
 Reproducible Python scripts for the data preparation and clustering workflow.
 
-
-### Documentation
-Supporting Stage 2 presentation slides, video script, voice-over-ready demonstration video, and project charter.
-
 ## Main Stage 2 Results
 
 - 7,043 customer records
